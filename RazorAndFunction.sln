@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAndFunction.Web", "RazorAndFunction.Web\RazorAndFunction.Web.csproj", "{A65376A6-FC28-49F0-A520-C23333A2CBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAndFunction.Function", "RazorAndFunction.Function\RazorAndFunction.Function.csproj", "{87B1FAE2-2C7C-4DD0-B018-DA7CFEE2868C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65376A6-FC28-49F0-A520-C23333A2CBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65376A6-FC28-49F0-A520-C23333A2CBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65376A6-FC28-49F0-A520-C23333A2CBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65376A6-FC28-49F0-A520-C23333A2CBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B1FAE2-2C7C-4DD0-B018-DA7CFEE2868C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B1FAE2-2C7C-4DD0-B018-DA7CFEE2868C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B1FAE2-2C7C-4DD0-B018-DA7CFEE2868C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B1FAE2-2C7C-4DD0-B018-DA7CFEE2868C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
